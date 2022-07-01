@@ -11,7 +11,8 @@ programa
 		anos = numero1 /365
 		meses = numero1 %365 /30
 		dias = numero1 %365 %30
-
+		
+		limpa()
 		escreva("Você possui " + anos + " anos," + meses + " meses e " + dias + " dias de idade.")
 	}
 }
@@ -20,7 +21,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 245; 
+ * @POSICAO-CURSOR = 197; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
